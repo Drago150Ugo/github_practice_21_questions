@@ -20,7 +20,7 @@ Write your yes/no question on each line, then check the host's answer.
  5. A: [ ] Yes  [ x] No   Q: Is this state start with the letters in the tange of A-K?
  6. A: [ ] Yes  [x ] No   Q: Does the state start with the letters from M - Z?
  7. A: [ ] Yes  [ x] No   Q: Is the state Louisiana?
- 8. A: [ ] Yes  [ ] No   Q: Is the place in Canada?
+ 8. A: [ ] Yes  [ x] No   Q: Is the place in Canada?
  9. A: [ ] Yes  [ ] No   Q: 
 10. A: [ ] Yes  [ ] No   Q: 
 11. A: [ ] Yes  [ ] No   Q: 
