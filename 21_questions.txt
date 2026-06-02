@@ -2,7 +2,7 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): Ugo ____________________
+PLAYER (the one asking questions): Ugo ___________
 HOST   (the one with the secret):  Saliou____________________
 
 SECRET CATEGORY (host fills in): [ ] Person  [ x] Place  [ ] Thing  [ ] Animal
