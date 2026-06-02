@@ -17,8 +17,8 @@ Write your yes/no question on each line, then check the host's answer.
  2. A: [ ] Yes  [ x] No   Q: Is this Place in Africa?
  3. A: [x ] Yes  [ ] No   Q: Is this place in the Americas?
  4. A: [x] Yes  [ ] No   Q: Is this in North America?
- 5. A: [ ] Yes  [x ] No   Q: Is this state start with the letters in the tange of A-K?
- 6. A: [ ] Yes  [ ] No   Q: 
+ 5. A: [ ] Yes  [ ] No   Q: Is this state start with the letters in the tange of A-K?
+ 6. A: [ ] Yes  [ ] No   Q: Does the state start with the letters from M - Z?
  7. A: [ ] Yes  [ ] No   Q: 
  8. A: [ ] Yes  [ ] No   Q: 
  9. A: [ ] Yes  [ ] No   Q: 
