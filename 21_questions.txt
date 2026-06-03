@@ -2,7 +2,7 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions):  ___________
+PLAYER (the one asking questions):  _Ugo__________
 HOST   (the one with the secret):  Zara
 
 SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
@@ -13,7 +13,7 @@ SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ ] No   Q: 
+ 1. A: [ ] Yes  [ ] No   Q: Is it a reptile?
  2. A: [ ] Yes  [ ] No   Q:
  3. A: [ ] Yes  [ ] No   Q: 
  4. A: [] Yes  [ ] No   Q:
