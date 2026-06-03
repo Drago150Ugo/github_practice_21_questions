@@ -16,10 +16,17 @@ Write your yes/no question on each line, then check the host's answer.
  1. A: [ ] Yes  [x] No   Q: Is it a reptile?
  2. A: [ ] Yes  [x] No   Q: Is it a sea animal?
  3. A: [y] Yes  [ ] No   Q: Is the animal cute?
+<<<<<<< HEAD
  4. A: [] Yes   [ ] No   Q: Can the animal be a pet?
  5. A: [ ] Yes  [ ] No   Q: Is the animal an insect? 
  6. A: [ ] Yes  [ ] No   Q: Can the animal fly?
  7. A: [ ] Yes  [ ] No   Q:Is the animal a cat?
+=======
+ 4. A: [y] Yes   [ ] No   Q: Can the animal be a pet?
+ 5. A: [ ] Yes  [n] No   Q: Is the animal an insect? 
+ 6. A: [ ] Yes  [n] No   Q: Can the animal fly?
+ 7. A: [ ] Yes  [ ] No   Q: Is it a cat?
+>>>>>>> ec65e98df1bc0af379ad476b7311330b6d51dd1e
  8. A: [ ] Yes  [ ] No   Q:
  9. A: [ ] Yes  [ ] No   Q:
 10. A: [ ] Yes  [] No   Q: 
