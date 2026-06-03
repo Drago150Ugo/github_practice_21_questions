@@ -2,10 +2,10 @@
         21 QUESTIONS - GAME SHEET
 ==========================================
 
-PLAYER (the one asking questions): Ugo ___________
-HOST   (the one with the secret):  Saliou____________________
+PLAYER (the one asking questions):  ___________
+HOST   (the one with the secret):  ____________________
 
-SECRET CATEGORY (host fills in): [ ] Person  [ x] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
 
 
 ------------------------------------------
@@ -13,17 +13,17 @@ SECRET CATEGORY (host fills in): [ ] Person  [ x] Place  [ ] Thing  [ ] Animal
 ------------------------------------------
 Write your yes/no question on each line, then check the host's answer.
 
- 1. A: [ ] Yes  [ x] No   Q: Is this place in Europe?
- 2. A: [ ] Yes  [ x] No   Q: Is this Place in Africa?
- 3. A: [x ] Yes  [ ] No   Q: Is this place in the Americas?
- 4. A: [x] Yes  [ ] No   Q: Is this in North America?
- 5. A: [ ] Yes  [ x] No   Q: Is this state start with the letters in the tange of A-K?
- 6. A: [ ] Yes  [x ] No   Q: Does the state start with the letters from M - Z?
- 7. A: [ ] Yes  [ x] No   Q: Is the state Louisiana?
- 8. A: [ ] Yes  [ x] No   Q: Is the place in Canada?
- 9. A: [ ] Yes  [ x] No   Q: Is the place in Mexico?
-10. A: [ ] Yes  [ x] No   Q: Is this place a state in the US?
-11. A: [ ] Yes  [x ] No   Q: Is this place in the US?
+ 1. A: [ ] Yes  [ ] No   Q: 
+ 2. A: [ ] Yes  [ ] No   Q:
+ 3. A: [ ] Yes  [ ] No   Q: 
+ 4. A: [] Yes  [ ] No   Q:
+ 5. A: [ ] Yes  [ ] No   Q:  
+ 6. A: [ ] Yes  [ ] No   Q: 
+ 7. A: [ ] Yes  [ ] No   Q:
+ 8. A: [ ] Yes  [ ] No   Q:
+ 9. A: [ ] Yes  [ ] No   Q: 
+10. A: [ ] Yes  [] No   Q: 
+11. A: [ ] Yes  [ ] No   Q: 
 12. A: [ ] Yes  [ ] No   Q: 
 13. A: [ ] Yes  [ ] No   Q: 
 14. A: [ ] Yes  [ ] No   Q: 
