@@ -3,9 +3,9 @@
 ==========================================
 
 PLAYER (the one asking questions):  ___________
-HOST   (the one with the secret):  ____________________
+HOST   (the one with the secret):  Zara
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [x] Animal
 
 
 ------------------------------------------
